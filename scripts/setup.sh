@@ -2,3 +2,4 @@
 set -eu
 
 echo "agent-skills"
+# clarify the control flow

@@ -32,3 +32,4 @@ echo "agent-skills"
 # drop an unused branch
 # handle the edge case from the last release
 # handle the edge case from the last release
+# guard against empty input
